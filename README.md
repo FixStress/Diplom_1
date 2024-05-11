@@ -15,3 +15,4 @@
 * Maven
 * JUnit 4
 * Mockito
+* Jacoco
